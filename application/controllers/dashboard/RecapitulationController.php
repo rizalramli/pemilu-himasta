@@ -13,7 +13,7 @@ class RecapitulationController extends CI_Controller
 
     public function indexRecapitulation()
     {
-        if ($this->session->userdata('role') != "Admin") {
+        if ($this->session->userdata('role') == "Saksi") {
             redirect('login_admin');
         }
 
@@ -26,7 +26,7 @@ class RecapitulationController extends CI_Controller
 
     public function showRecapitulation($id)
     {
-        if ($this->session->userdata('role') != "Admin") {
+        if ($this->session->userdata('role') == "Saksi") {
             redirect('login_admin');
         }
 
@@ -64,13 +64,6 @@ class RecapitulationController extends CI_Controller
         // Suara kandidat tidak sah
         $data['result_data_tidak_sah'] = $this->M_crud->edit_data($where, 'view_recapitulation_candidate_tidak_sah')->result();
 
-        // Suara partai semua
-        $data['result_data_party'] = $this->M_crud->get_data_order_by_desc('view_recapitulation_party', $where, 'election_total')->result();
-        // Suara partai sah
-        $data['result_data_party_sah'] = $this->M_crud->edit_data($where, 'view_recapitulation_party_sah')->result();
-        // Suara partai tidak sah
-        $data['result_data_party_tidak_sah'] = $this->M_crud->edit_data($where, 'view_recapitulation_party_tidak_sah')->result();
-        // end
         $this->template->load('layouts/app', 'dashboard/recapitulation/show', $data);
     }
 

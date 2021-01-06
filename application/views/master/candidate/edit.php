@@ -47,28 +47,6 @@
                         </div>
                     </div>
                     <div class="row">
-                        <?php
-                        foreach ($party_item as $item) :
-                            $checked = "";
-                            foreach ($member_item as $item2) :
-                                if ($item->party_id == $item2->party_id) {
-                                    $checked = "checked='checked'";
-                                }
-                            endforeach
-                        ?>
-                            <div class="col-md-3">
-                                <div class="form-group">
-                                    <div class="custom-control custom-checkbox mt-2">
-                                        <input <?php echo $checked ?> type="checkbox" name="party_id[]" value="<?php echo $item->party_id ?>" class="custom-control-input cb_party" id="party_id<?php echo $item->party_id ?>">
-                                        <label class="custom-control-label" for="party_id<?php echo $item->party_id ?>"><?php echo $item->name ?></label>
-                                    </div>
-                                </div>
-                            </div>
-                        <?php
-                        endforeach
-                        ?>
-                    </div>
-                    <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary">Update</button>

@@ -67,13 +67,6 @@ $route['voting/(:any)/show'] = 'master/VotingController/show/$1';
 $route['voting/edit/(:any)'] = 'master/VotingController/editAjax/$1';
 $route['voting/update']      = 'master/VotingController/updateAjax';
 
-$route['party']               = 'master/PartyController/index';
-$route['party/create']        = 'master/PartyController/create';
-$route['party/store']         = 'master/PartyController/store';
-$route['party/(:any)/edit']   = 'master/PartyController/edit/$1';
-$route['party/update']        = 'master/PartyController/update';
-$route['party/(:any)/delete'] = 'master/PartyController/delete/$1';
-
 $route['voter']           = 'master/VoterController/index';
 $route['voter/sendEmail'] = 'master/VoterController/sendEmail';
 $route['voter/(:any)/sendEmailByEmail']   = 'master/VoterController/sendEmailByEmail/$1';

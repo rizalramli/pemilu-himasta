@@ -28,7 +28,7 @@
                   <img id="attachment_preview" alt="&nbsp;" width="150" height="150" />
                 </div>
                 <div class="form-group">
-                  <label for="attachment">Foto Pemilih : </label>
+                  <label for="attachment">Foto Pemilih Menunjukan KTM : </label>
                   <input required accept="image/*" type="file" name="attachment" class="form-control form-control-sm" id="attachment" onchange="document.getElementById('attachment_preview').src = window.URL.createObjectURL(this.files[0])">
                 </div>
                 <div class="form-group">
@@ -44,8 +44,7 @@
     }
     ?>
 
-    <div class="row">
-
+    <div class="row justify-content-center">
       <?php
       $j = 0;
       foreach ($items as $item) : ?>

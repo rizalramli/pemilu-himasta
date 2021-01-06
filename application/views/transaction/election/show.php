@@ -22,25 +22,6 @@
             <?php foreach ($items as $item) : ?>
                 <div class="col-md-4">
                     <div class="card">
-                        <div class="row mt-4 justify-content-center py-2 px-2">
-                            <?php
-                            foreach ($party_item as $item2) :
-                                if ($item->candidate_id == $item2->candidate_id) {
-                            ?>
-                                    <div class="col-3 col-sm-3 col-lg-3 mb-1">
-                                        <table width="100%">
-                                            <tr>
-                                                <td align="center">
-                                                    <img width="60px" height="60px" src="<?php echo base_url(); ?>assets/photo/partai/<?php echo $item2->party_photo ?>">
-                                                </td>
-                                            </tr>
-                                        </table>
-                                    </div>
-                            <?php
-                                }
-                            endforeach
-                            ?>
-                        </div>
                         <div class="container">
                             <table width="100%">
                                 <tr>
