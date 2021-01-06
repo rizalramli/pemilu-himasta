@@ -4,7 +4,7 @@
             <a href="">E-Voting</a>
         </div>
         <ul class="sidebar-menu">
-            <?php if ($this->session->userdata('role') == 'KPU' || $this->session->userdata('role') == 'Saksi') { ?>
+            <?php if ($this->session->userdata('role') == 'KPU') { ?>
                 <li class="menu-header">Dashboard</li>
                 <li class="<?php if ($this->uri->segment(1) == 'recapitulation') {
                                 echo 'active';
@@ -14,6 +14,14 @@
                                 echo 'active';
                             } ?>"><a class="nav-link" href="<?php echo base_url('selection') ?>"><i class="fas fa-box-open"></i> <span>Log Pemilihan</span></a></li>
             <?php } ?>
+
+            <?php if ($this->session->userdata('role') == 'Saksi') { ?>
+                <li class="menu-header">Menu</li>
+                <li class="<?php if ($this->uri->segment(1) == 'selection') {
+                                echo 'active';
+                            } ?>"><a class="nav-link" href="<?php echo base_url('selection') ?>"><i class="fas fa-box-open"></i> <span>Log Pemilihan</span></a></li>
+            <?php } ?>
+
             <?php if ($this->session->userdata('role') == 'Admin') { ?>
                 <li class="menu-header">Dashboard</li>
                 <li class="<?php if ($this->uri->segment(1) == 'recapitulation') {
