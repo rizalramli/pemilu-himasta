@@ -45,6 +45,7 @@ class CandidateController extends CI_Controller
                 'number' => $number,
                 'is_active' => 1
             );
+            $this->M_crud->input_data($data, 'candidate');
             redirect('voting/' . $voting_id . '/show');
         } else {
             $data['voting_id'] = $voting_id;

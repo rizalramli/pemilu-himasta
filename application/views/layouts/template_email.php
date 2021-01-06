@@ -15,7 +15,7 @@
             height: 100%;
             margin: 0;
             line-height: 1.4;
-            background-color: #EDF2F7;
+            background-color: #F2F4F6;
             color: #74787E;
             -webkit-text-size-adjust: none;
         }
@@ -29,7 +29,7 @@
         }
 
         a {
-            color: white;
+            color: #3869D4;
         }
 
 
@@ -42,7 +42,7 @@
             -premailer-width: 100%;
             -premailer-cellpadding: 0;
             -premailer-cellspacing: 0;
-            background-color: #EDF2F7;
+            background-color: #F2F4F6;
         }
 
         .email-content {
@@ -122,7 +122,7 @@
 
         .details td {
             padding: 5px;
-            border: 1px solid #EDF2F7;
+            border: 1px solid #f2f4f6;
         }
 
         .body-sub {
@@ -181,11 +181,11 @@
         /* Buttons ------------------------------ */
 
         .button {
-            background-color: #2D3748;
-            border-top: 10px solid #2D3748;
-            border-right: 18px solid #2D3748;
-            border-bottom: 10px solid #2D3748;
-            border-left: 18px solid #2D3748;
+            background-color: #3869D4;
+            border-top: 10px solid #3869D4;
+            border-right: 18px solid #3869D4;
+            border-bottom: 10px solid #3869D4;
+            border-left: 18px solid #3869D4;
             display: inline-block;
             color: #FFF;
             text-decoration: none;
@@ -195,12 +195,11 @@
         }
 
         .button--green {
-            color: greenyellow;
-            background-color: #2D3748;
-            border-top: 10px solid #2D3748;
-            border-right: 18px solid #2D3748;
-            border-bottom: 10px solid #2D3748;
-            border-left: 18px solid #2D3748;
+            background-color: #05369D;
+            border-top: 10px solid #05369D;
+            border-right: 18px solid #05369D;
+            border-bottom: 10px solid #05369D;
+            border-left: 18px solid #05369D;
         }
 
 
@@ -254,7 +253,7 @@
                 <table class="email-content" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
                         <td class="email-masthead">
-                            <h1 style="text-align:center">PEMIRA FH UNAIR 2020</h1>
+                            <h1 style="text-align:center">HIMASTA - ITS</h1>
                         </td>
                     </tr>
                     <!-- Email Body -->
@@ -300,7 +299,7 @@
                             <table class="email-footer" align="center" width="570" cellpadding="0" cellspacing="0">
                                 <tr>
                                     <td class="content-cell" align="center">
-                                        <p class="sub align-center">&copy; Xenopati</p>
+                                        <p class="sub align-center">&copy; HIMASTA</p>
                                     </td>
                                 </tr>
                             </table>

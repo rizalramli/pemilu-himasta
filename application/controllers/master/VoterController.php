@@ -57,7 +57,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'PEMIRA FH UNAIR 2020');
+            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS 2021');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');
@@ -104,7 +104,7 @@ class VoterController extends CI_Controller
             'protocol'  => 'smtp',
             'smtp_host' => 'smtp.gmail.com',
             'smtp_user' => 'e41170438@student.polije.ac.id',  // Email gmail
-            'smtp_pass'   => 'E41170438',  // Password gmail
+            'smtp_pass'   => 'e41170438',  // Password gmail
             'smtp_crypto' => 'ssl',
             'smtp_port'   => 465,
             'crlf'    => "\r\n",
@@ -113,7 +113,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'PEMIRA FH UNAIR 2020');
+            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS 2021');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');

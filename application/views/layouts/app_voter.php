@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>E-Voting</title>
+    <title>HIMASTA</title>
+    <link rel="icon" type="image/png" href="<?php echo base_url('assets/logo/logo.png') ?>">
 
     <!-- General CSS Files -->
     <?php $this->load->view('layouts/css.php'); ?>
@@ -45,7 +46,7 @@
             </div>
             <footer class="main-footer">
                 <div class="footer-left">
-                    @Xenopati
+                    @HIMASTA
                 </div>
             </footer>
         </div>

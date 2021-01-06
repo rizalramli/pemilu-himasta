@@ -1,7 +1,7 @@
 <div class="main-sidebar">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">E-Voting</a>
+            <a href="">E-Voting</a>
         </div>
         <ul class="sidebar-menu">
             <?php if ($this->session->userdata('role') == 'KPU' || $this->session->userdata('role') == 'Saksi') { ?>
