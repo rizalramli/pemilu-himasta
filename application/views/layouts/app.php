@@ -46,7 +46,7 @@
             </div>
             <footer class="main-footer">
                 <div class="footer-center">
-                    @HIMASTA
+                    © HIMASTA ITS
                 </div>
             </footer>
         </div>

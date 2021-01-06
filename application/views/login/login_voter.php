@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HIMASTA</title>
+    <title>HIMASTA ITS</title>
     <link rel="icon" type="image/png" href="<?php echo base_url('assets/logo/logo.png') ?>">
 
     <!-- panggil assets CSS -->
