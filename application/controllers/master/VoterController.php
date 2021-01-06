@@ -57,7 +57,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS 2021');
+            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');
@@ -113,7 +113,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS 2021');
+            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');
