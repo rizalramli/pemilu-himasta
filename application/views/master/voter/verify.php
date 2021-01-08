@@ -35,6 +35,14 @@
 
                                     <div class="form-group">
                                         <div class="d-block">
+                                            <label for="angkatan">Angkatan</label>
+                                        </div>
+                                        <input id="angkatan" type="text" class="form-control form-control-sm" name="angkatan" value="<?php echo set_value('angkatan') ?>">
+                                        <span class="text-danger"><?php echo form_error('angkatan'); ?></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <div class="d-block">
                                             <label for="password">Password Baru</label>
                                         </div>
                                         <input id="password" type="password" class="form-control form-control-sm" name="password">

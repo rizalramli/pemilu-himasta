@@ -125,7 +125,8 @@ class RecapitulationController extends CI_Controller
         echo json_encode(array(
             "election_id" => $data->election_id,
             "election_photo" => $data->attachment,
-            "name_voter" => $data->name
+            "angkatan_voter" => $data->angkatan,
+            "name_voter" => $data->name,
         ));
     }
 

@@ -19,6 +19,7 @@
                                 <th scope="col">Nama</th>
                                 <th scope="col">Email</th>
                                 <th scope="col">Status Verifikasi</th>
+                                <th scope="col">Send Status Email</th>
                                 <th scope="col">Action</th>
                             </tr>
                         </thead>
@@ -33,6 +34,13 @@
                                     <td class="align-middle"><?php echo $item->email ?></td>
                                     <td class="align-middle">
                                         <?php if ($item->password == null) {
+                                            echo '<span class="badge badge-danger">Belum</span>';
+                                        } else {
+                                            echo '<span class="badge badge-success">Sudah</span>';
+                                        } ?>
+                                    </td>
+                                    <td class="align-middle">
+                                        <?php if ($item->send_status == 0) {
                                             echo '<span class="badge badge-danger">Belum</span>';
                                         } else {
                                             echo '<span class="badge badge-success">Sudah</span>';

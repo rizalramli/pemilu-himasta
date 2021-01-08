@@ -18,11 +18,12 @@
                         <thead>
                             <tr>
                                 <th scope="col">No</th>
+                                <th scope="col">Nama Pemilih</th>
+                                <th scope="col">Angkatan</th>
                                 <?php if ($this->session->userdata("role") == "KPU") { ?>
-                                    <th scope="col">Nama</th>
                                     <th scope="col">Email</th>
                                 <?php } ?>
-                                <th scope="col">Waktu</th>
+                                <th scope="col">Jam Memilih</th>
                                 <th scope="col">Status</th>
                                 <?php if ($this->session->userdata("role") == "KPU") { ?>
                                     <th scope="col">Action</th>
@@ -36,11 +37,12 @@
                             ?>
                                 <tr>
                                     <td class="align-middle"><?php echo $i ?></td>
+                                    <td class="align-middle"><?php echo $item->name ?></td>
+                                    <td class="align-middle"><?php echo $item->angkatan ?></td>
                                     <?php if ($this->session->userdata("role") == "KPU") { ?>
-                                        <td class="align-middle"><?php echo $item->name ?></td>
                                         <td class="align-middle"><?php echo $item->email ?></td>
                                     <?php } ?>
-                                    <td class="align-middle"><?php echo $item->create_at ?></td>
+                                    <td class="align-middle"><?php echo date('H:i', strtotime($item->create_at))  ?></td>
                                     <td class="align-middle">
                                         <?php if ($item->election_status == 0) {
                                             echo '<span class="badge badge-danger">Tidak Sah</span>';
@@ -86,6 +88,7 @@
                         </tr>
                     </table>
                     <h4 class="text-center mt-2" id="name_voter"></h4>
+                    <h6 class="text-center mt-2" id="angkatan_voter"></h6>
                 </table>
             </div>
             <div class="modal-footer bg-whitesmoke br">
@@ -108,6 +111,7 @@
                 $('#detail-modal').modal('show');
                 $('#election_id').val(data.election_id);
                 $('#election_photo').attr('src', '<?php echo base_url('assets/photo/attachment/') ?>' + data.election_photo);
+                $('#angkatan_voter').text('Angkatan (' + data.angkatan_voter + ')');
                 $('#name_voter').text(data.name_voter);
             },
             error: function(jqXHR, textStatus, errorThrown) {
