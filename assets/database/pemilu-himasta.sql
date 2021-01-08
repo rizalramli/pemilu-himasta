@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `username`, `password`, `role`, `is_active`) VALUES
-(1, 'admin', '$2y$12$HXjeVBMQstkE9l1G62RjI.Au29qk.xi/2tQlMHkvE/dCG4M.oOG0W', 'Admin', 1),
+(1, 'admin', '$2y$12$nIZqFI97Ufx4lRFDUl2vEuJF8FJDLjYvh8KLEq6QcWtVof61vwtwy', 'Admin', 1),
 (2, 'kpu_himasta', '$2y$12$N1wKUDZRvhFcBRpBcYsdmuCMgrRxkjsNfqwEaTMnsoExr1y0Rl.IO', 'KPU', 1),
 (3, 'saksi_himasta1', '$2y$12$YXZKENvLwlLGmEXqA6n30.TvNAYbhKk4rVkwA558ANAgLfTXWEvzS', 'Saksi', 1),
 (4, 'saksi_himasta2', '$2y$12$TAvgf3NuglXC/IW80UT2Aur86DhRy9CEN61eN285YuNDBKun348Gi', 'Saksi', 1),
