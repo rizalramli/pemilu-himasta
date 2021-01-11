@@ -47,8 +47,8 @@ class VoterController extends CI_Controller
             'charset'   => 'utf-8',
             'protocol'  => 'smtp',
             'smtp_host' => 'smtp.gmail.com',
-            'smtp_user' => 'e41170438@student.polije.ac.id',  // Email gmail
-            'smtp_pass'   => 'e41170438',  // Password gmail
+            'smtp_user' => 'pemiluhimasta@gmail.com',  // Email gmail
+            'smtp_pass'   => '@wDm_Sk3RBw&333c',  // Password gmail
             'smtp_crypto' => 'ssl',
             'smtp_port'   => 465,
             'crlf'    => "\r\n",
@@ -57,7 +57,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS');
+            $this->email->from('pemiluhimasta@gmail.com', 'HIMASTA ITS');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');
@@ -103,8 +103,8 @@ class VoterController extends CI_Controller
             'charset'   => 'utf-8',
             'protocol'  => 'smtp',
             'smtp_host' => 'smtp.gmail.com',
-            'smtp_user' => 'e41170438@student.polije.ac.id',  // Email gmail
-            'smtp_pass'   => 'e41170438',  // Password gmail
+            'smtp_user' => 'pemiluhimasta@gmail.com',  // Email gmail
+            'smtp_pass'   => '@wDm_Sk3RBw&333c',  // Password gmail
             'smtp_crypto' => 'ssl',
             'smtp_port'   => 465,
             'crlf'    => "\r\n",
@@ -113,7 +113,7 @@ class VoterController extends CI_Controller
 
         $this->load->library('email', $config);
         foreach ($voter as $item) {
-            $this->email->from('e41170438@student.polije.ac.id', 'HIMASTA ITS');
+            $this->email->from('pemiluhimasta@gmail.com', 'HIMASTA ITS');
 
             $this->email->to($item->email);
             $this->email->subject('Verify Email');

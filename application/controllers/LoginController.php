@@ -35,11 +35,11 @@ class LoginController extends CI_Controller
                 redirect('election');
             } else {
                 $this->session->set_flashdata('password', 'Dilogin');
-                redirect('login');
+                redirect('/');
             }
         } else {
             $this->session->set_flashdata('email', 'Dilogin');
-            redirect('login');
+            redirect('/');
         }
     }
 
@@ -85,7 +85,7 @@ class LoginController extends CI_Controller
     public function logoutVoter()
     {
         $this->session->sess_destroy();
-        redirect('login');
+        redirect('/');
     }
 
     public function logoutAdmin()

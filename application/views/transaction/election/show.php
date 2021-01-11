@@ -35,7 +35,7 @@
                             <h3 class="card-title"><?php echo $item->number ?></h3>
                             <h6 class="card-title"><?php echo $item->candidate_name ?></h6>
 
-                            <button onclick="storeElection(<?php echo $item->candidate_id ?>, '<?php echo $item->candidate_name ?>')" class="btn btn-primary stretched-link mt-3">Pilih</button>
+                            <button onclick="storeElection(<?php echo $item->candidate_id ?>, '<?php echo $item->candidate_name ?>')" class="btn btn-primary mt-3">Pilih</button>
                         </div>
                     </div>
                 </div>

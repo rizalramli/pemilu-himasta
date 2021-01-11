@@ -1,0 +1,54 @@
+CREATE VIEW view_election AS
+SELECT 
+    e.election_id, e.attachment, e.create_at, e.election_status,
+    vtr.voter_id, vtr.name, vtr.email, vtr.angkatan,
+    c.candidate_id,
+    vtg.voting_id
+FROM 
+    election e JOIN 
+    voter vtr USING(voter_id) JOIN
+    candidate c USING(candidate_id) JOIN
+    voting vtg USING(voting_id)
+ORDER BY e.election_id ASC;
+
+CREATE VIEW view_member AS
+SELECT
+    c.candidate_id, c.voting_id, c.name AS candidate_name, c.photo AS candidate_photo, c.number, c.is_active
+FROM 
+    candidate c
+ORDER BY c.number ASC;
+
+CREATE VIEW view_recapitulation_candidate AS
+SELECT 
+    e.election_id, 
+    c.candidate_id, c.name AS candidate_name, COUNT(c.candidate_id) AS election_total, 
+    v.voting_id
+FROM 
+    election e JOIN 
+    candidate c USING(candidate_id) JOIN
+    voting v USING(voting_id)
+GROUP BY c.candidate_id, v.voting_id;
+
+CREATE VIEW view_recapitulation_candidate_sah AS
+SELECT 
+    e.election_id, 
+    c.candidate_id, COUNT(c.candidate_id) AS election_sah, 
+    v.voting_id
+FROM 
+    election e JOIN 
+    candidate c USING(candidate_id) JOIN
+    voting v USING(voting_id)
+WHERE e.election_status = 1
+GROUP BY c.candidate_id, v.voting_id;
+
+CREATE VIEW view_recapitulation_candidate_tidak_sah AS
+SELECT 
+    e.election_id, 
+    c.candidate_id, COUNT(c.candidate_id) AS election_tidak_sah, 
+    v.voting_id
+FROM 
+    election e JOIN 
+    candidate c USING(candidate_id) JOIN
+    voting v USING(voting_id)
+WHERE e.election_status = 0
+GROUP BY c.candidate_id, v.voting_id;
