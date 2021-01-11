@@ -43,7 +43,7 @@
 
                                     <div class="form-group">
                                         <div class="d-block">
-                                            <label for="password">Password Baru</label>
+                                            <label for="password">Buat Password Anda</label>
                                         </div>
                                         <input id="password" type="password" class="form-control form-control-sm" name="password">
 
