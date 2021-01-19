@@ -24,22 +24,7 @@
                             <h5 class="text-center text-primary mt-4">Aktivasi Akun</h5>
                             <div class="card-body">
                                 <form action="<?php echo base_url('verify/submit/store') ?>" method="post">
-                                    <div class="form-group">
-                                        <div class="d-block">
-                                            <label for="name">Nama Mahasiswa</label>
-                                        </div>
-                                        <input type="hidden" name="email" value="<?php echo $email ?>">
-                                        <input id="name" type="text" class="form-control form-control-sm" name="name" value="<?php echo set_value('name') ?>">
-                                        <span class="text-danger"><?php echo form_error('name'); ?></span>
-                                    </div>
-
-                                    <div class="form-group">
-                                        <div class="d-block">
-                                            <label for="angkatan">Angkatan</label>
-                                        </div>
-                                        <input id="angkatan" type="text" class="form-control form-control-sm" name="angkatan" value="<?php echo set_value('angkatan') ?>">
-                                        <span class="text-danger"><?php echo form_error('angkatan'); ?></span>
-                                    </div>
+                                    <input type="hidden" name="email" value="<?php echo $email ?>">
 
                                     <div class="form-group">
                                         <div class="d-block">

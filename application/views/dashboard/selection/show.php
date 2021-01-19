@@ -18,9 +18,9 @@
                         <thead>
                             <tr>
                                 <th scope="col">No</th>
-                                <th scope="col">Nama Pemilih</th>
-                                <th scope="col">Angkatan</th>
                                 <?php if ($this->session->userdata("role") == "KPU") { ?>
+                                    <th scope="col">Nama Pemilih</th>
+                                    <th scope="col">Angkatan</th>
                                     <th scope="col">Email</th>
                                 <?php } ?>
                                 <th scope="col">Jam Memilih</th>
@@ -37,12 +37,12 @@
                             ?>
                                 <tr>
                                     <td class="align-middle"><?php echo $i ?></td>
-                                    <td class="align-middle"><?php echo $item->name ?></td>
-                                    <td class="align-middle"><?php echo $item->angkatan ?></td>
                                     <?php if ($this->session->userdata("role") == "KPU") { ?>
+                                        <td class="align-middle"><?php echo $item->name ?></td>
+                                        <td class="align-middle"><?php echo $item->angkatan ?></td>
                                         <td class="align-middle"><?php echo $item->email ?></td>
                                     <?php } ?>
-                                    <td class="align-middle"><?php echo date('H:i', strtotime($item->create_at))  ?></td>
+                                    <td class="align-middle"><?php echo date('d F Y H:i', strtotime($item->create_at))  ?></td>
                                     <td class="align-middle">
                                         <?php if ($item->election_status == 0) {
                                             echo '<span class="badge badge-danger">Tidak Sah</span>';

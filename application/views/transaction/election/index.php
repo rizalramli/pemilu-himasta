@@ -28,7 +28,7 @@
                   <img id="attachment_preview" alt="&nbsp;" width="150" height="150" />
                 </div>
                 <div class="form-group">
-                  <label for="attachment">Foto Pemilih Menunjukan KTM : </label>
+                  <label for="attachment" style="font-size: larger; font-weight: bold;" class="text-danger">Selfie dengan KTM : </label>
                   <input required accept="image/*" type="file" name="attachment" class="form-control form-control-sm" id="attachment" onchange="document.getElementById('attachment_preview').src = window.URL.createObjectURL(this.files[0])">
                 </div>
                 <div class="form-group">
@@ -62,9 +62,6 @@
                   <div class="ticket-title text-center">
                     <h4>
                       <?php echo date('d F Y', strtotime($item->date))  ?>
-                    </h4>
-                    <h4>
-                      <?php echo date('H:i', strtotime($item->start)) . " - " . date('H:i', strtotime($item->end)) ?>
                     </h4>
 
                     <?php

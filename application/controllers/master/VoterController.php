@@ -37,7 +37,6 @@ class VoterController extends CI_Controller
 
         $table = 'voter';
         $where = array(
-            'name' => null,
             'send_status' => 0,
         );
         $voter = $this->M_crud->edit_data($where, $table)->result();
@@ -151,19 +150,13 @@ class VoterController extends CI_Controller
 
     public function verifyStore()
     {
-        $name  = $this->input->post('name');
-        $angkatan  = $this->input->post('angkatan');
         $email  = $this->input->post('email');
         $password  = $this->input->post('password');
 
-        $this->form_validation->set_rules('name', 'Nama', 'required');
-        $this->form_validation->set_rules('angkatan', 'Angkatan', 'required');
         $this->form_validation->set_rules('password', 'Password', 'required');
 
         if ($this->form_validation->run() != false) {
             $data = array(
-                'name' => $name,
-                'angkatan' => $angkatan,
                 'password' => password_hash($password, PASSWORD_BCRYPT),
             );
             $where = array(
