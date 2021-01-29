@@ -1,0 +1,2352 @@
+/* INSERT QUERY NO: 1 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOCH SAMINUDDIN ', 2013, 'sam.statistika@gmail.com'
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'M DENI PRIANTAMA ', 2014, 'dpriantama70@gmail.com'
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'Alfattan Kurniawan ', 2015, 'alfattkurnia1@gmail.com'
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ILMA ZUHROTUL AINI ', 2015, 'ilmazuhrotul.aini@gmail.com'
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HELENNA ASA PRATIKA ', 2015, 'bitiesbitibiti@gmail.com'
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SURYA AGENG HANIFA ', 2015, 'agengsuryaa@gmail.com'
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'Felaunia D Latumakulita ', 2015, 'feli.latumakulita@gmail.com'
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FADHLI AZHAR ', 2016, 'fadhliazhar213@gmail.com'
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ERDI JULIAN ', 2016, 'erdi.joelian@gmail.com'
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADAM FAHMI FANDISYAH ', 2016, 'adamfahmifandisyah@gmail.com'
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IZDIHARTI NONI PERTIWI ', 2016, 'pertiwi9@gmail.com'
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANISA RAMADHANTI ', 2016, 'anisa30v@gmail.com'
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DEBBY AYU PRATIWI ', 2016, 'debbypratiwi@gmail.com'
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IKHWAN RIFANTARA PUTRA ', 2016, 'RIFANTARAPUTRA379@GMAIL.COM'
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MIRZA ROMI SETIAWAN ', 2016, 'mirzaromi12@gmail.com'
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AJI SUKMA PRADANA ', 2017, 'ajisukmapradana31@gmail.com'
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ILALANG AKAR PERTIWI ', 2017, 'ilalangpertiwi@gmail.com'
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AWANDA YUNITA RAHMA ', 2017, 'awandarahma1@gmail.com'
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'WILDA MELIA UDIATAMI ', 2017, 'wilda.udiatami@gmail.com'
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ODITA EKA CAHYANI ', 2017, 'oditacahyani@gmail.com'
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'INDAH MARYANA ', 2017, 'indahmaryanaa@gmail.com'
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'CINDE PRISTI KURNIA MERDIKO ', 2017, 'cinde.pristi@gmail.com'
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DELLANI RAHMAWATI ', 2017, 'dellanirahmawati12@gmail.com'
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NANDA GITA APRILIA ', 2017, 'nanda.gita22@gmail.com'
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAHMANIA AZWARINI ', 2017, 'rahmaniaazwarini@gmail.com'
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MITHA RABIYATUL NUFUS ', 2017, 'mhytha.nufus88@gmail.com'
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'LAELY SHINTA PRAMILLENA ', 2017, 'lelyshinta45@gmail.com'
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DEA RESTIKA AUGUSTINA PRATIWI ', 2017, 'dearestika12@gmail.com'
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANITA SYAFIRA IRFAN ', 2017, 'anitasyafirairfan@gmail.com'
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TABITA YUNI SUSANTO ', 2017, 'tabita77@yahoo.com'
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'LAILATUL FITRIYAH ', 2017, 'lailatulfitriyah93@gmail.com'
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DIZA AMALIA ', 2017, 'dizaamalia@gmail.com'
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MARIA NOVITA ', 2017, 'marianovbeauty@gmail.com'
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TITA VERLITA ', 2017, 'titavrlt1706@gmail.com'
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YAMA PRAJA MADANA ', 2017, 'yamapraja@gmail.com'
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ARIF ALFANI ', 2017, 'muhammadarifalfani33@gmail.com'
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR TSURAYYA SALMA FEBRIANTI ', 2017, 'nurtsurayya99@gmail.com'
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JENNIFER PATRICIA ', 2017, 'jennifer.patricia19@gmail.com'
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRISCILA ELIA KUSUMANINGTYAS ', 2017, 'priscilaeliakusumaningtyas@gmail.com'
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALIVIA MUTIARA NURFADILA ', 2017, 'aliviamutiara@gmail.com'
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HASRI WIJI AQSARI ', 2017, 'hasriwiji@gmail.com'
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YANA REZKI KRISWIN PANJAITAN ', 2017, 'yanakriswin@gmail.com'
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADITYA TRI RAHARJO ', 2017, 'adityatri4@gmail.com'
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUTRI WAHYUNI ', 2017, 'putriwahyuni45@gmail.com'
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALIVIA ZAHRA ', 2017, 'zahraalivia5@gmail.com'
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADILIA RAHMAWATI ', 2017, 'adilia.rahmawati01@gmail.com'
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADE NURUL FAUZIAH ', 2017, 'adenurulf12@gmail.com'
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MITA MUSTAHIDAH ', 2017, 'mitamust16@gmail.com'
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOCH AKBAR PASHA PERDANA ', 2017, 'moch.akbar.pasha@gmail.com'
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'UNGGUL HARFIANTO ', 2017, 'unggulharfianto@gmail.com'
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ARDIANSYAH SETYO PAMBUDI ', 2017, 'ardisetyo00@gmail.com'
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FATKHI RIZQIYAH AGUSTINA ', 2017, 'fatkhi16@gmail.com'
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DHANY NASTITI LESTARI ', 2017, 'dhanynastiti99@gmail.com'
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ILAYNA YAUMY ', 2017, 'ana4azza@gmail.com'
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TIZA AYU VIRANIA ', 2017, 'tiza.ayu99@gmail.com'
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ELIZABETH GOKMAULI MARBUN ', 2017, 'elizabethmarbun17@gmail.com'
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KARTIKA NUR RAHMA ', 2017, 'rtika2959@gmail.com'
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IQLIL INDRASYAH PUTRA ', 2017, 'indrasyah.putra57@gmail.com'
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PHOEBE CHAIRUNISA ', 2017, 'chairunisapibi@gmail.com'
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMAD CAHYO WICAKSONO ', 2017, 'cwicaksono300@gmail.com'
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TIARA RAKHMAWATI ', 2017, 'rakhmawatiara@gmail.com'
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AZZAHROTUN NAFISAH ', 2017, 'Azzahrotunnafisah1@gmail.com'
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ADLANSYAH MUDA ', 2017, 'adlansyahmuda@gmail.com'
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD RAYHAN LAHDJI ', 2017, 'rayhanlahdji@yahoo.com'
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SARAH PUTRI MAHARANI ', 2017, 'smaharani989@gmail.com'
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NADYA YUNIAR DESI PRAMESWARI ', 2017, 'yuniarnadya4@gmail.com'
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAKINAH SALSABILILLAH HILALY ', 2017, 'sakinahsalsa@gmail.com'
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NURUL KHOLISATIN ', 2017, 'nurulkholis07@gmail.com'
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YOVITA LIANA SALSABILA ', 2017, 'yovita.liana@gmail.com'
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HAFIZH ZAKI PRASETYO ADI ', 2017, 'cahganteng2609@gmail.com'
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD IKLIL AL MILADY ', 2017, 'iklilalmilady28@gmail.com'
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ZAMRONI AL FIKRI ', 2017, 'zamronifikri@gmail.com'
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HASYIM ', 2017, 'hhasyim08@gmail.com'
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RATNANDA GITA ALFITRI ', 2017, 'ratnandagita@gmail.com'
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ROFIQUL ILMI ', 2017, 'muhammadrofiqulilmi@gmail.com'
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RIZKY ADI WIJAYA ', 2017, 'wijayarizky0811@gmail.com'
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADILYA RIZKI MASHITA ', 2017, 'adilyarizkim@gmail.com'
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NAZIEHAH TAIBATUNNISWAH ', 2017, 'ziehah2307@gmail.com'
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'GIOVANI PATRICIA ', 2017, 'giovanipatricia99@gmail.com'
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SYIFA ANNUR IZZAH ', 2017, 'syifaainnurizzah@gmail.com'
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AMIRA RANA ADILA ', 2017, 'amiraranaadila@gmail.com'
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RADHA AYU ISWARI ', 2017, 'radhaayu@gmail.com'
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BRIAN SOTYA DANENDRO ', 2017, 'briancuuk@gmail.com'
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD FAJRIANSYAH DANENDRA ', 2017, 'fajriansyahd@gmail.com'
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FARIZ ', 2017, 'farizbamazruq@gmail.com'
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUKE HANIFA ', 2017, 'nuke10198@gmail.com'
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FACHREZA DARA PERMATASARI ', 2017, 'fachrezadarapermatasari@gmail.com'
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HARDAN TRI LAKSAMANA ', 2017, 'hardantri2@gmail.com'
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD IZZAN HAMDAN SADIDA ', 2017, 'muhammadizzanhs@gmail.com'
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'OKKA KUSUMAWATI ASMOYO ', 2017, 'okkakusumawati@gmail.com'
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOHAMMAD RAYHAN ARIDA ', 2017, 'ra.arida30@gmail.com'
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'VITO MUHAMMAD NURHAYAT ', 2017, 'vito_pb@yahoo.com'
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAHARANI SINTA NIRWANA ', 2017, 'maharanisinta79@gmail.com'
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NAHDA ZILFATHI AQMARINA ', 2017, 'Nahdazilfathia@gmail.com'
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'I GUSTI MADE ANGGA BRAHMASIA PUTRA ', 2017, 'anggabrahmasia99@gmail.com'
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUTRI KUSUMA WARDANI ', 2017, 'wardani787@gmail.com'
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TITA RIZA AULIA ', 2017, 'titariza28@gmail.com'
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AHMAD BIHAR ISYQI ', 2017, 'ahmadbiharisyqi@gmail.com'
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'WIDYA AMALIA RAHMA ', 2017, 'amaliawidya328@gmail.com'
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD RAFIF ALVIAN ', 2017, 'rafifalvian3103@gmail.com'
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ARA BELLA', 2018, 'bellaarabella31@gmail.com'
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADELINA FITRIANA', 2018, 'adelinafitriana@gmail.com'
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AMALIA NUR FADHILA', 2018, 'amaliafadhila17@gmail.com'
+);
+
+/* INSERT QUERY NO: 104 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANDI FAHIRA ALSA', 2018, 'fahiraalsa.andi@gmail.com'
+);
+
+/* INSERT QUERY NO: 105 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISA AULIYA RAHMAN', 2018, 'annisauliya1247@gmail.com'
+);
+
+/* INSERT QUERY NO: 106 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISA SYALSABILA', 2018, 'ichaaann3@gmail.com'
+);
+
+/* INSERT QUERY NO: 107 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISA YUNIKA', 2018, 'annisayunika14@gmail.com'
+);
+
+/* INSERT QUERY NO: 108 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'CAHYANINGTYAS RINDHU MURDOWATI', 2018, 'tyasrindhu@gmail.com'
+);
+
+/* INSERT QUERY NO: 109 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DZAKIYAH AGUSTIN PUSPITASARI', 2018, 'dzakiyah.agustin@gmail.com'
+);
+
+/* INSERT QUERY NO: 110 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ELVIRA DIAN SAFIRE', 2018, 'elviradiansafire@gmail.com'
+);
+
+/* INSERT QUERY NO: 111 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FINENDARU SETIANISA', 2018, 'finendaru20@gmail.com'
+);
+
+/* INSERT QUERY NO: 112 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ICHWANUL KAHFI PRASETYA', 2018, 'ichwankahfi@gmail.com'
+);
+
+/* INSERT QUERY NO: 113 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'I MELDA PUSPITA LOKA', 2018, 'imeldapuspitaloka@gmail.com'
+);
+
+/* INSERT QUERY NO: 114 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'INAYAH PUTRI HARININGTYAS', 2018, 'pinayah26@gmail.com'
+);
+
+/* INSERT QUERY NO: 115 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MARIA MEIDIANA SIAHAAN', 2018, 'siahaanmeidiana45@gmail.com'
+);
+
+/* INSERT QUERY NO: 116 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NAULI MAZAYA SIREGAR', 2018, 'siregarnauli80@gmail.com'
+);
+
+/* INSERT QUERY NO: 117 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RIFQI DWI SAPTA OKTANIA', 2018, 'rifqinia23@gmail.com'
+);
+
+/* INSERT QUERY NO: 118 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RIZKY NUR FADILA', 2018, 'rizky.kiki.rnf@gmail.com'
+);
+
+/* INSERT QUERY NO: 119 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SALSABILA HIDAYATUL AUDHA', 2018, 'bila.salsa913@yahoo.com'
+);
+
+/* INSERT QUERY NO: 120 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SISKA MEGA OKTAVIANA', 2018, 'ssiskamega22@gmail.com'
+);
+
+/* INSERT QUERY NO: 121 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SYAFNIYA ZILFAH ANIESIY', 2018, 'syafniyaaniesiy@gmail.com'
+);
+
+/* INSERT QUERY NO: 122 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'VANDA FITRIYANAH', 2018, 'vandafitriyanah@gmail.com'
+);
+
+/* INSERT QUERY NO: 123 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'VINKA FIRDAUSITA ERKRISTI', 2018, 'vinkafirdaus@gmail.com'
+);
+
+/* INSERT QUERY NO: 124 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YUNIAR MEGA KARTIKASARI', 2018, 'yuniarmegak@gmail.com'
+);
+
+/* INSERT QUERY NO: 125 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NOVITAMARA', 2018, 'novita0019@gmail.com'
+);
+
+/* INSERT QUERY NO: 126 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KEVIN AGUNG FERNANDA RIFKI', 2018, 'fernandakevin02@gmail.com'
+);
+
+/* INSERT QUERY NO: 127 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TIARANISA\'I FADHILLA', 2018, 'tiaranisaifadhilla@gmail.com'
+);
+
+/* INSERT QUERY NO: 128 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'VERGILIA AGAM SAPUTRI', 2018, 'vergilia.stat.its@gmail.com'
+);
+
+/* INSERT QUERY NO: 129 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD FEBRIO PUTRA SUFIANOOR', 2018, 'mordecairigby163060@gmail.com'
+);
+
+/* INSERT QUERY NO: 130 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FEBRIOLA RANIA TRIHELMINA', 2018, 'febriolaraniatrihelmina@gmail.com'
+);
+
+/* INSERT QUERY NO: 131 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DANI WAHYU UTOMO', 2018, 'danidani632@gmail.com'
+);
+
+/* INSERT QUERY NO: 132 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUTRI HIDAYATI ROHMAH', 2018, 'putrihidayati301@gmail.com'
+);
+
+/* INSERT QUERY NO: 133 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAKAONI ROFI PRAMESTHI', 2018, 'sakaonirp@gmail.com'
+);
+
+/* INSERT QUERY NO: 134 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'INKA NURUL ALFIANA', 2018, 'inkanurulalfiana@gmail.com'
+);
+
+/* INSERT QUERY NO: 135 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SALSABILA HASANANDA', 2018, 'lalamadha47@gmail.com'
+);
+
+/* INSERT QUERY NO: 136 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HANUM AYU LAILATURROHMAH', 2018, 'lailaayu99@gmail.com'
+);
+
+/* INSERT QUERY NO: 137 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BUNGA TATA ARINDA', 2018, 'bungatata2904@gmail.com'
+);
+
+/* INSERT QUERY NO: 138 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HAIVA QURROTA A`YUN', 2018, 'haiva1407@gmail.com'
+);
+
+/* INSERT QUERY NO: 139 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'EVA MARELLA ROSANNE', 2018, 'evamarella99@gmail.com'
+);
+
+/* INSERT QUERY NO: 140 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FENNI PUSPITA WULANDARI', 2018, 'fennipuspitawulandari@gmail.com'
+);
+
+/* INSERT QUERY NO: 141 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KARINA ENDRIANA GRACE ALVIONITA', 2018, 'karinalvionita@gmail.com'
+);
+
+/* INSERT QUERY NO: 142 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAYA KENCANA WULANDARI', 2018, 'mayakencanawulandari@gmail.com'
+);
+
+/* INSERT QUERY NO: 143 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRADHIKTA NAUFAL IRFANDA', 2018, 'pradhikta.18062@mhs.its.ac.id '
+);
+
+/* INSERT QUERY NO: 144 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SHECILIA NUR SAL SAL BILA', 2018, 'shecilianur@gmail.com'
+);
+
+/* INSERT QUERY NO: 145 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NIA TRIAMALIA APSARI', 2018, 'niapsari18@gmail.com'
+);
+
+/* INSERT QUERY NO: 146 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'LIDYA CAHYA AURELLIA', 2018, 'Lcaurellia@gmail.com'
+);
+
+/* INSERT QUERY NO: 147 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FEBRY HILMI ANSHORI', 2018, 'febryhilmi123@gmail.com'
+);
+
+/* INSERT QUERY NO: 148 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ERWINNA AULIA RAHMADHANI', 2018, 'auliarahmadhani230@gmail.com'
+);
+
+/* INSERT QUERY NO: 149 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NOFI PUJI LESTARI', 2018, 'nofipujilestari12@gmail.com'
+);
+
+/* INSERT QUERY NO: 150 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'WAHYU NURLAILA AWALIYAH', 2018, 'wahyunurlailaawaliyah@gmail.com'
+);
+
+/* INSERT QUERY NO: 151 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SUSILOWATI GUSINTA', 2018, 'gusintasusilowati@gmail.com'
+);
+
+/* INSERT QUERY NO: 152 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALBERTUS KURNIA LANTIKA', 2018, 'albertuskurnial@gmail.com'
+);
+
+/* INSERT QUERY NO: 153 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AZKA M RADINKA PURBA', 2018, 'azkaradinka@gmail.com'
+);
+
+/* INSERT QUERY NO: 154 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANDREW', 2018, 'andrewtabaraka@yahoo.com'
+);
+
+/* INSERT QUERY NO: 155 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANINDIATIE PARASTIKASARI', 2018, 'anindiatieparastikasari@gmail.com'
+);
+
+/* INSERT QUERY NO: 156 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'UMAR SODI ADHI', 2018, 'umarsodi223@gmail.com'
+);
+
+/* INSERT QUERY NO: 157 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR SULISTIAWANTI', 2018, 'sulisid.28@gmail.com'
+);
+
+/* INSERT QUERY NO: 158 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAGDALENA EFFENDI', 2018, 'magdalenaffnd@gmail.com'
+);
+
+/* INSERT QUERY NO: 159 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AYU SYAFITRI RAMADHANI', 2018, 'ayusyafitrira@gmail.com'
+);
+
+/* INSERT QUERY NO: 160 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YANUARDI FITRA INSANI', 2018, 'yanuardifitra@gmail.com'
+);
+
+/* INSERT QUERY NO: 161 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FITRIA DEWI ARISTA', 2018, 'aristakew1399@gmail.com'
+);
+
+/* INSERT QUERY NO: 162 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NADIA IKA SAFITRI', 2018, 'nadiaikasafitri24@gmail.com'
+);
+
+/* INSERT QUERY NO: 163 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ECHNORA FAUDI RISTYAWAN', 2018, 'awangefr@gmail.com'
+);
+
+/* INSERT QUERY NO: 164 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISA FARAH AQILA', 2018, 'annisa.farah79@gmail.com'
+);
+
+/* INSERT QUERY NO: 165 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ARIF SUDIRO', 2018, 'sudiroarif2000@gmail.com'
+);
+
+/* INSERT QUERY NO: 166 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HAFSHAH ADZKIA KHAIRUNNISA', 2018, 'hafshadzkia@gmail.com'
+);
+
+/* INSERT QUERY NO: 167 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FURQANADYA PRATIWI', 2018, 'furqanadyapratiwi@gmail.com'
+);
+
+/* INSERT QUERY NO: 168 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAHENDRA KRESNA YUTOMO', 2018, 'mahendrayutomo@gmail.com'
+);
+
+/* INSERT QUERY NO: 169 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AUBERT OKTAVIANTONO', 2018, 'auboktav@gmail.com'
+);
+
+/* INSERT QUERY NO: 170 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SALSABILA PUTERI SETYARATIH', 2018, 'salsabilaputeri21@gmail.com'
+);
+
+/* INSERT QUERY NO: 171 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KANIA DWI PUSPA PRADIKASARI', 2018, 'kaniapradikasari@yahoo.com'
+);
+
+/* INSERT QUERY NO: 172 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SEZA DWIWULAN RAMADINI', 2018, 'sezaramadini@gmail.com'
+);
+
+/* INSERT QUERY NO: 173 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JUAN ANTONIO PUTRA SOEPENO', 2018, 'juan.soepeno@gmail.com'
+);
+
+/* INSERT QUERY NO: 174 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD BONDAN VITTO RAMADHAN', 2018, 'bondanvitto1@gmail.com'
+);
+
+/* INSERT QUERY NO: 175 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FEBY NADYA AULIA', 2018, 'febynadya16@gmail.com'
+);
+
+/* INSERT QUERY NO: 176 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRAJNA PRAMITA IZATI', 2018, 'pramitaprajna22@gmail.com'
+);
+
+/* INSERT QUERY NO: 177 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HEDIANA BELLA WIDIANTI', 2018, 'hedianabella25@gmail.com'
+);
+
+/* INSERT QUERY NO: 178 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NIDA NIBRAS FADHILAH', 2018, 'nidanibras19@gmail.com'
+);
+
+/* INSERT QUERY NO: 179 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'UMMU KARIMAH', 2018, '2001karimah@gmail.com'
+);
+
+/* INSERT QUERY NO: 180 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SARNITA SADYA', 2018, 'sadyasarnita@gmail.com'
+);
+
+/* INSERT QUERY NO: 181 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DEVY NIKITA WIDIYANTORO', 2018, 'devynikita@gmail.com'
+);
+
+/* INSERT QUERY NO: 182 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SEKAR WULAN RAMADHANI', 2018, 'sekarwulanramadhani@gmail.com'
+);
+
+/* INSERT QUERY NO: 183 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AURELL FAZA ASHILLA', 2018, 'aurellashilla@yahoo.com'
+);
+
+/* INSERT QUERY NO: 184 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KARTIKA DEVY KUSUMAWARDHANI', 2018, 'kartikadevy124@gmail.com'
+);
+
+/* INSERT QUERY NO: 185 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BAGAS WASI SUGANDHI', 2018, 'bagaswasi@gmail.com'
+);
+
+/* INSERT QUERY NO: 186 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALIF FATHURRAHIM', 2018, 'aliffatur10@gmail.com'
+);
+
+/* INSERT QUERY NO: 187 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RARA AUDREY MOKTIKA', 2018, 'audreyrara37@gmail.com'
+);
+
+/* INSERT QUERY NO: 188 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YANTRIANTAMA', 2018, 'yan28triantama@gmail.com'
+);
+
+/* INSERT QUERY NO: 189 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NURAINI HURIYATI', 2018, 'nuraini.huriyati@gmail.com'
+);
+
+/* INSERT QUERY NO: 190 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'APRIANI KARTIKA DEWI', 2018, 'aprikdew@gmail.com'
+);
+
+/* INSERT QUERY NO: 191 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YOHANA YOANITA AZI', 2018, 'yohanayoanita8@gmail.com'
+);
+
+/* INSERT QUERY NO: 192 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KHARISMA RIZA HAYU PRICILIA', 2019, 'kharismariza123@gmail.com'
+);
+
+/* INSERT QUERY NO: 193 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DIAH AYU FITRI ANTI', 2019, 'diah.da05@gmail.com'
+);
+
+/* INSERT QUERY NO: 194 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'CLARISSA PUTRI CANDRANINGTYAS', 2019, 'clarissaputri793@gmail.com'
+);
+
+/* INSERT QUERY NO: 195 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ZAIRI LADUN', 2019, 'zairiladun29@gmail.com'
+);
+
+/* INSERT QUERY NO: 196 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'VANIA FREDERICA', 2019, 'vania02122000@gmail.com'
+);
+
+/* INSERT QUERY NO: 197 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'INTAN CITRA PHONSKANINGTYAS', 2019, 'intanc110@gmail.com'
+);
+
+/* INSERT QUERY NO: 198 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NANDA NOVENIA SHINTA HAPSARI ', 2019, 'nandanoveniash@gmail.com'
+);
+
+/* INSERT QUERY NO: 199 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IMAWAN PANDU GUSTAMI', 2019, 'imawanpandugustami@gmail.com'
+);
+
+/* INSERT QUERY NO: 200 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YANUAR DWI AUNURROFIKI', 2019, 'yanuardwi51@gmail.com'
+);
+
+/* INSERT QUERY NO: 201 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRAMESTI HAYU WIRASTRI', 2019, 'dhini.prahawi@gmail.com'
+);
+
+/* INSERT QUERY NO: 202 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAHIDA RIHHADATUL AISY', 2019, 'rahidaraa04@gmail.com'
+);
+
+/* INSERT QUERY NO: 203 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUNKY DITA AMELIA', 2019, 'punkyditaamelia@gmail.com'
+);
+
+/* INSERT QUERY NO: 204 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TAHTA YODYA SETIYA KUSUMA CAHYANE', 2019, 'yodyatahta@gmail.com'
+);
+
+/* INSERT QUERY NO: 205 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DEWI MUSAANI OIHU', 2019, 'oihumusaanidewi@gmail.com'
+);
+
+/* INSERT QUERY NO: 206 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IHSAN KARINA BANCIN', 2019, 'ihsankb12@gmail.com'
+);
+
+/* INSERT QUERY NO: 207 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AMAR RAHMAN KAMAL', 2019, 'rahmankamal03@gmail.com'
+);
+
+/* INSERT QUERY NO: 208 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HAFEZ AFGHAN', 2019, 'hafesafghan@gmail.com'
+);
+
+/* INSERT QUERY NO: 209 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SHAFIRA AISYAH MAHARANI', 2019, 'shafira.maharani.sm@gmail.com'
+);
+
+/* INSERT QUERY NO: 210 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ARYA BIMA', 2019, 'aryabima2709@gmail.com'
+);
+
+/* INSERT QUERY NO: 211 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NADHIRAH ADZANI KHAIRUNNISA', 2019, 'dhirahadzani@gmail.com'
+);
+
+/* INSERT QUERY NO: 212 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DINDA KHAIRUN NISA', 2019, 'dindakhairunnisa09@gmail.com'
+);
+
+/* INSERT QUERY NO: 213 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PASKALIS SINURAT', 2019, 'Paskalis0623@gmail.com'
+);
+
+/* INSERT QUERY NO: 214 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DALBERGIA SEPTI DILA', 2019, 'dalbergiasd13@gmail.com'
+);
+
+/* INSERT QUERY NO: 215 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ZULFANI ALFASANAH', 2019, 'zulfanialfasanah@gmail.com'
+);
+
+/* INSERT QUERY NO: 216 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISSA\'DILLA NUR AZIZAH', 2019, 'annissadilla9@gmail.com'
+);
+
+/* INSERT QUERY NO: 217 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'I KOMANG PANDE PRAJADHITA WIBAWA PUTRA', 2019, 'ikppwp1528@gmail.com'
+);
+
+/* INSERT QUERY NO: 218 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ZANZABILA REHANISYA FIRDHANI', 2019, 'zanzabilarf@gmail.com'
+);
+
+/* INSERT QUERY NO: 219 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADHISTA WIDYA NANDASARI', 2019, 'adhistawidya001@gmail.com'
+);
+
+/* INSERT QUERY NO: 220 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'OVID FIRST OWN DAMANIK', 2019, 'damanikovid@gmail.com'
+);
+
+/* INSERT QUERY NO: 221 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'INDAH SALSHABILA', 2019, 'indah.salsha01@gmail.com'
+);
+
+/* INSERT QUERY NO: 222 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DINDA NURANISA RAHMADANTY', 2019, 'dindanuranisar@gmail.com'
+);
+
+/* INSERT QUERY NO: 223 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ATIKAH', 2019, 'aatikah133@gmail.com'
+);
+
+/* INSERT QUERY NO: 224 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANNISA RAHMAWATI', 2019, 'annrhmwt@gmail.com'
+);
+
+/* INSERT QUERY NO: 225 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SEKAR PUSPITA SARI', 2019, 'sekarpuspitasari0000@gmail.com'
+);
+
+/* INSERT QUERY NO: 226 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BRIANITA RIANASARI', 2019, 'brianitars123@gmail.com'
+);
+
+/* INSERT QUERY NO: 227 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOHAMAD HAFIDZ AL HABIB', 2019, 'mhafidzalhabib@gmail.com'
+);
+
+/* INSERT QUERY NO: 228 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'GANNISA SEKAR ADIYA', 2019, 'gannisasekar@gmail.com'
+);
+
+/* INSERT QUERY NO: 229 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'TSURAYYA ALIFIA ZAHRAH', 2019, 'aliyafia92@gmail.com'
+);
+
+/* INSERT QUERY NO: 230 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RACHMAT WINARDIANSYAH', 2019, 'rwinardiansyah3501@gmail.com'
+);
+
+/* INSERT QUERY NO: 231 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FARHAN AULA RAHMAN', 2019, 'aulafarhan10@gmail.com'
+);
+
+/* INSERT QUERY NO: 232 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SALSABILA NAQIYYAH', 2019, 'snaqiyyah02@gmail.com'
+);
+
+/* INSERT QUERY NO: 233 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'EZRA ALFONSIUS SETIAWAN', 2019, 'ezraals1412@gmail.com'
+);
+
+/* INSERT QUERY NO: 234 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FAUZIYA ALYA RAMADHANA', 2019, 'fauziyaalya02@gmail.com'
+);
+
+/* INSERT QUERY NO: 235 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KEVINA WINDY ARLIANNI', 2019, 'kevina.arlianni@gmail.com'
+);
+
+/* INSERT QUERY NO: 236 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RIZA WIYANI', 2019, 'rizawiyanii@gmail.com'
+);
+
+/* INSERT QUERY NO: 237 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'LILIK SETYANINGSIH', 2019, 'liliksetyaningsih815@gmail.com'
+);
+
+/* INSERT QUERY NO: 238 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MEGAWATI R. SITORUS', 2019, 'mega7torus@gmail.com'
+);
+
+/* INSERT QUERY NO: 239 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'OVIVAH NOVOINAH', 2019, 'ovivahnovoinah15@gmail.com'
+);
+
+/* INSERT QUERY NO: 240 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DWI PURWANTO', 2019, 'dwipurwanto19764@gmail.com'
+);
+
+/* INSERT QUERY NO: 241 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NATASYA SHANTIKA AZHAMI', 2019, 'azhaminatasya@gmail.com'
+);
+
+/* INSERT QUERY NO: 242 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAHWA PUTRI', 2019, 'utamisahwaputri@gmail.com'
+);
+
+/* INSERT QUERY NO: 243 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ERICKO VERDIANTO KARNADI', 2019, 'erickokarnadi@gmail.com'
+);
+
+/* INSERT QUERY NO: 244 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NADA TAQIYA IZZAZI', 2019, 'nadataqiya@gmail.com'
+);
+
+/* INSERT QUERY NO: 245 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'EDWINA MAHESWARI PARAMESTI', 2019, 'edwinamaheswari@gmail.com'
+);
+
+/* INSERT QUERY NO: 246 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BRAMANDIKA', 2019, 'bramandika12@gmail.com'
+);
+
+/* INSERT QUERY NO: 247 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JORDAN OKTAVIANUS GANI', 2019, 'oktavianusjordan@gmail.com'
+);
+
+/* INSERT QUERY NO: 248 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IRFAN NUR HANIF KHOIRULLAH', 2019, 'irfannurhanif@gmail.com'
+);
+
+/* INSERT QUERY NO: 249 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AKHMAD MIFTAKHUL ILMI', 2019, 'takhulilmi99@gmail.com'
+);
+
+/* INSERT QUERY NO: 250 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAHMI FITRI PRATIWI', 2019, 'rahmifpratiwi@gmail.com'
+);
+
+/* INSERT QUERY NO: 251 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AJENG SEKAR SARI', 2019, 'ajeng7283@gmail.com'
+);
+
+/* INSERT QUERY NO: 252 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'M. RIDHLOTUL IZZA', 2019, 'm.ridh.izza@gmail.com'
+);
+
+/* INSERT QUERY NO: 253 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'GIOVANITA ELLEN PRASETYA', 2019, 'giovanita.prasetya@gmail.com'
+);
+
+/* INSERT QUERY NO: 254 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JIHAN NABILAH', 2019, 'jihann98@gmail.com'
+);
+
+/* INSERT QUERY NO: 255 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOCHAMMAD FAJAR SHIDIQ SUJANA SAHUDI', 2019, 'fajarshi.jana@gmail.com'
+);
+
+/* INSERT QUERY NO: 256 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR LAILI SYAHROZHADL', 2019, 'nurilaili15@gmail.com'
+);
+
+/* INSERT QUERY NO: 257 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AMIRA AMALIA', 2019, 'amiraamalia89@gmail.com'
+);
+
+/* INSERT QUERY NO: 258 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SALSA SALSABILA', 2019, 'salsasalsabila0510@gmail.com'
+);
+
+/* INSERT QUERY NO: 259 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AULIA KHARIS RAKHMASARI', 2019, 'aulikharis@gmail.com'
+);
+
+/* INSERT QUERY NO: 260 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HARIS YAFIE', 2019, 'yafie345@gmail.com'
+);
+
+/* INSERT QUERY NO: 261 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ALDI MALIK SYAHPUTRA', 2019, 'aldi.maliksyahputra@gmail.com'
+);
+
+/* INSERT QUERY NO: 262 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAFFANAH KARIMAH', 2019, 'Karimahsaffa16@gmail.com'
+);
+
+/* INSERT QUERY NO: 263 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'WEDHO GENOSIS', 2019, 'jengenosis@gmail.com'
+);
+
+/* INSERT QUERY NO: 264 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MOHAMMAD BAGUSSURYA BASUNI', 2019, 'bagussurya.basuni@gmail.com'
+);
+
+/* INSERT QUERY NO: 265 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JOVANKA ALVIRA WIJAYA', 2019, 'jovankaawijaya10@gmail.com'
+);
+
+/* INSERT QUERY NO: 266 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUNIK ISYIDHUN NAI\'MAH', 2019, 'nuniknaimah28@gmail.com'
+);
+
+/* INSERT QUERY NO: 267 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADELIA NUR ASMARIA', 2019, 'adelianur.asmaria@gmail.com'
+);
+
+/* INSERT QUERY NO: 268 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AHMAT YULIANTO', 2019, 'ahmat.yulianto14@gmail.com'
+);
+
+/* INSERT QUERY NO: 269 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'BILLY YUDHO DEWANDORO', 2019, 'yudhobilly@gmail.com'
+);
+
+/* INSERT QUERY NO: 270 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'M. ZAIM HUSNUN NIAM', 2019, 'husnunzaim16@gmail.com'
+);
+
+/* INSERT QUERY NO: 271 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAHMA DEA DYAKSA', 2019, 'rahmadea12@gmail.com'
+);
+
+/* INSERT QUERY NO: 272 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAMA ADILLA ZEIN', 2019, 'ramaadillazein1@gmail.com'
+);
+
+/* INSERT QUERY NO: 273 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUTRI NURDIANTI', 2019, 'putrinurdianti1122@gmail.com'
+);
+
+/* INSERT QUERY NO: 274 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAYYID NUR CAHYO ABDUL JALIL', 2019, 'sayyidnurc123@gmail.com'
+);
+
+/* INSERT QUERY NO: 275 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'WAHIDATUL WARDAH AL MAULIDIYAH', 2019, 'wahidatul.wardah23@gmail.com'
+);
+
+/* INSERT QUERY NO: 276 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YANUARI RIZQII WAAHIDAH', 2019, 'bayanuari21@gmail.com'
+);
+
+/* INSERT QUERY NO: 277 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DENNY FIRMANSYAH', 2019, 'dennyfir27@gmail.com'
+);
+
+/* INSERT QUERY NO: 278 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RINDY RAFIDA', 2019, 'rindi708@gmail.com'
+);
+
+/* INSERT QUERY NO: 279 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AHMAD REYHAN ABDILLAH ', 2019, 'ahmadreyhanabdillah@gmail.com'
+);
+
+/* INSERT QUERY NO: 280 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR ROHMATUNNISA\'', 2019, 'nurrohmatunns2@gmail.com'
+);
+
+/* INSERT QUERY NO: 281 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SUROTIN NAJIKHAH ', 2019, 'surotinnajikhah@gmail.com'
+);
+
+/* INSERT QUERY NO: 282 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANDREA ERNEST', 2019, 'itsandreaernest@gmail.com'
+);
+
+/* INSERT QUERY NO: 283 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MELLINA EKA FITRIANI', 2019, 'mellinaekaf@gmail.com'
+);
+
+/* INSERT QUERY NO: 284 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MARGARETHA GRACIA HOTMATUA SILALAHI', 2019, 'margaretha2810@gmail.com'
+);
+
+/* INSERT QUERY NO: 285 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUSPA ARUM SARI', 2019, 'puspaarum1301@gmail.com'
+);
+
+/* INSERT QUERY NO: 286 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NATASYA', 2019, 'eunikenatasya@gmail.com'
+);
+
+/* INSERT QUERY NO: 287 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SINDY CHAIRUNISA', 2019, 'sindychairunisa0@gmail.com'
+);
+
+/* INSERT QUERY NO: 288 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRIMA CATUR PERKASA', 2019, 'Primacaturp@gmail.com'
+);
+
+/* INSERT QUERY NO: 289 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FAJAR APRIYANTO', 2019, 'apriyantofajar74@gmail.com'
+);
+
+/* INSERT QUERY NO: 290 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MARCHELIA NABA', 2019, 'marchelnaba@gmail.com'
+);
+
+/* INSERT QUERY NO: 291 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADANI NAUVAL PRIJANTORO ', 2019, 'masdaniof.2019@gmail.com'
+);
+
+/* INSERT QUERY NO: 292 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RADITYA FAREL NASHRULLAH', 2019, 'radityafarel19@gmail.com'
+);
+
+/* INSERT QUERY NO: 293 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IVANA IRMA DEFI', 2019, 'ivanairma26@gmail.com'
+);
+
+/* INSERT QUERY NO: 294 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ROSYIDA ISHMA MARDHIYYAH', 2019, 'rosyidaa.ishma08@gmail.com'
+);
+
+/* INSERT QUERY NO: 295 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALTHAVIDA RIRIS', 2019, 'althavida@gmail.com'
+);
+
+/* INSERT QUERY NO: 296 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALDINO DESLA A', 2019, 'aldinoalmerzada@gmail.com'
+);
+
+/* INSERT QUERY NO: 297 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FARAH AZAHRA', 2019, 'azrfarah13@gmail.com'
+);
+
+/* INSERT QUERY NO: 298 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANAK AGUNG AYU PRASASTI AYUNDARI', 2019, 'prasasti2002@gmail.com'
+);
+
+/* INSERT QUERY NO: 299 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ISMI WANDA OKTAVIANA ', 2019, 'ismiwanda@gmail.com'
+);
+
+/* INSERT QUERY NO: 300 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'IRFAN ANDRE DHARMAWAN', 2019, 'irfanandreee@gmail.com'
+);
+
+/* INSERT QUERY NO: 301 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NAILA ADELIA PRIBADI', 2019, 'nailaadelia6@gmail.com'
+);
+
+/* INSERT QUERY NO: 302 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'JONATHAN MANGASI SITORUS', 2019, 'jonathan17sitorus@gmail.com'
+);
+
+/* INSERT QUERY NO: 303 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'AIS SALMAN FARISIE', 2019, 'Aissalmanfarisie@gmail.com'
+);
+
+/* INSERT QUERY NO: 304 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RAFANDRA ARIFTITO APTA KIRAN', 2019, 'ariftito1809@gmail.com'
+);
+
+/* INSERT QUERY NO: 305 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'HASNA ADIBAH QOTRUNNADA', 2019, 'qotrunnadaaa02@gmail.com'
+);
+
+/* INSERT QUERY NO: 306 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAUDUDI ARKANARDI', 2019, 'arkanardi@gmail.com'
+);
+
+/* INSERT QUERY NO: 307 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD ROMIZ ROFAN HAKIM', 2019, 'rofan99@gmail.com'
+);
+
+/* INSERT QUERY NO: 308 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'YOHANES KRISTIANTO PRATISTO', 2019, 'yohaneskristianto567@gmail.com'
+);
+
+/* INSERT QUERY NO: 309 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ALISSA NOVITASARI', 2019, 'alissanovitasariii@gmail.com'
+);
+
+/* INSERT QUERY NO: 310 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PUTRI APRILASTIKA SUKARNA', 2019, 'aprilastikaputri@gmail.com'
+);
+
+/* INSERT QUERY NO: 311 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'EVIKA AISYAH YASMIN', 2019, 'evika.aisyah12@gmail.com'
+);
+
+/* INSERT QUERY NO: 312 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SHINTA NURIYAH ARIEF', 2019, 'shintaarief1312@gmail.com'
+);
+
+/* INSERT QUERY NO: 313 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MAURA PUTRI DEFA', 2019, 'mauradefa@gmail.com'
+);
+
+/* INSERT QUERY NO: 314 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADINDA NUR RAIHAN', 2019, 'adindaanur08@gmail.com'
+);
+
+/* INSERT QUERY NO: 315 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FIMADASA BLESOFI FIKANSA', 2019, 'fimadasablesofi@gmail.com'
+);
+
+/* INSERT QUERY NO: 316 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'REKA MANIKA INSANI', 2019, 'rekamanika@gmail.com'
+);
+
+/* INSERT QUERY NO: 317 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'LATIFATUZ ZULFA', 2019, 'zulfaanalis18@gmail.com'
+);
+
+/* INSERT QUERY NO: 318 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NADHIRA RAMADHANI JATMIKO ', 2019, 'nadhiramadhani10@gmail.com'
+);
+
+/* INSERT QUERY NO: 319 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SYAFIQ ALIF HILMI', 2019, 'syafiqalifhilmi@gmail.com'
+);
+
+/* INSERT QUERY NO: 320 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FERNALDY WANANDA PUTRA', 2019, 'fernaldy.250301@gmail.com'
+);
+
+/* INSERT QUERY NO: 321 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DION HAFFIZ HENDRIARTO', 2019, 'dhaffiz35@gmail.com'
+);
+
+/* INSERT QUERY NO: 322 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'PRASASTI ARIKA WIDYA', 2019, 'prasastiarika@gmail.com'
+);
+
+/* INSERT QUERY NO: 323 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'DEDE YUSUF P. KUNTARITAS', 2019, 'dkuntaritas@gmail.com'
+);
+
+/* INSERT QUERY NO: 324 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ANITA BEATRIX', 2019, 'anitabeatrix607@gmail.com'
+);
+
+/* INSERT QUERY NO: 325 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR FARAHIZAM SARI HARAHAP', 2019, 'sariharahapnurfarahizam@gmail.com'
+);
+
+/* INSERT QUERY NO: 326 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NUR ADDAWIAH DZUWARIYYAH RABBAH', 2019, 'nuraddawiah2017@gmail.com'
+);
+
+/* INSERT QUERY NO: 327 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD FAUZAN SOLIKHIN', 2019, 'ojansmart2010@gmail.com'
+);
+
+/* INSERT QUERY NO: 328 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RACHEL GRACIA SIMATUPANG', 2019, 'rachelgracias24@gmail.com'
+);
+
+/* INSERT QUERY NO: 329 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'MUHAMMAD HAFIDZ ASSIDIQ', 2019, 'kidz.past21@gmail.com'
+);
+
+/* INSERT QUERY NO: 330 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'ADHELIA KARENINA', 2019, 'adhelia2001@gmail.com'
+);
+
+/* INSERT QUERY NO: 331 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FIRYAL ALMASAH KAMILIA SARTONO', 2019, 'almasaahh@gmail.com'
+);
+
+/* INSERT QUERY NO: 332 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'RIZKA YULIANI SAPUTRI', 2019, 'rizkayulianisaputri@gmail.com'
+);
+
+/* INSERT QUERY NO: 333 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'KRISTINA PANDUWINATA', 2019, 'kristinapanduwinata@gmail.com'
+);
+
+/* INSERT QUERY NO: 334 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'FARHAN LANDI', 2019, 'farhan.landi2001@gmail.com'
+);
+
+/* INSERT QUERY NO: 335 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'SAFITRI PARAS SHADIRA', 2019, 'shadira1217@gmail.com'
+);
+
+/* INSERT QUERY NO: 336 */
+INSERT INTO voter(name, angkatan, email)
+VALUES
+(
+'NABILA TSABITA TAQIYYAH TAMBA', 2019, 'tsabitataqiyyah19@gmail.com'
+);
+

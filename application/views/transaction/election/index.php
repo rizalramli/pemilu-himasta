@@ -63,7 +63,9 @@
                     <h4>
                       <?php echo date('d F Y', strtotime($item->date))  ?>
                     </h4>
-
+                    <h4>
+                      <?php echo date('H:i', strtotime($item->start)) . " - " . date('H:i', strtotime($item->end)) ?>
+                    </h4>
                     <?php
                     $i = 0;
                     $election_validation = '<span class="badge badge-danger">Belum Memilih</span>';
